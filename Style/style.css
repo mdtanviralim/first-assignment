@@ -1,0 +1,90 @@
+ *{
+   margin: 0;
+   font-family: 'Work Sans', sans-serif;
+}
+.banner{
+    width: 1600px 808px;
+    text-align: right;
+    padding:216px 230px 364px 845px ;
+    background-color: white;
+    background-image: url(/images/banner/banner1.png);
+    background-repeat: no-repeat;
+    background-position:top;
+}
+.text-f{
+ color: #151414;
+ font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right;
+    
+}
+.text-s{
+color: #444343;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+text-align: right;
+margin-bottom:32px;
+
+}
+.btn-primary {
+    color:white;
+    font-weight: 600;
+    font-size: 20px;
+    border:0 ;
+    padding: 20px 30px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+}
+.center-position{
+    display: flex;
+    gap: 84px;
+
+}
+.image-one{
+    
+position: absolute;
+width: 569px;
+height: 723.3px;
+left: 206px;
+top: 939px;
+
+}
+.text-big{
+    position: absolute;
+width: 416px;
+height: 400px;
+left: 862px;
+top: 1178px;
+
+}
+.text-one{
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+
+}
+.text-two{
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #444343;
+margin-top:24px;
+}
+ul{
+display: block;
+list-style-type: disc;
+padding-left: 35px;
+margin-top: 18px;
+}
